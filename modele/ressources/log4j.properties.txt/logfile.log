@@ -1,0 +1,13 @@
+DEBUG | 2021-01-22 15:10:33 | [main] modele.Log4j (Log4j.java:21) - msg de debogage
+INFO  | 2021-01-22 15:10:33 | [main] modele.Log4j (Log4j.java:22) - msg d'information
+WARN  | 2021-01-22 15:10:33 | [main] modele.Log4j (Log4j.java:23) - msg d'avertissement
+ERROR | 2021-01-22 15:10:33 | [main] modele.Log4j (Log4j.java:24) - msg d'erreur
+FATAL | 2021-01-22 15:10:33 | [main] modele.Log4j (Log4j.java:25) - msg d'erreur fatale
+DEBUG | 2021-01-22 15:35:31 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:47) - msg de debogage
+INFO  | 2021-01-22 15:35:31 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:48) - msg d'information
+WARN  | 2021-01-22 15:35:31 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:49) - msg d'avertissement
+ERROR | 2021-01-22 15:35:31 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:50) - msg d'erreur
+FATAL | 2021-01-22 15:35:31 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:51) - msg d'erreur fatale
+INFO  | 2021-01-22 15:39:21 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:46) - Ouverture_du_programme
+INFO  | 2021-01-22 16:19:47 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:46) - Ouverture_du_programme
+INFO  | 2021-01-22 16:30:27 | [AWT-EventQueue-0] vue.PyDessinPnl (PyDessinPnl.java:46) - Ouverture_du_programme
